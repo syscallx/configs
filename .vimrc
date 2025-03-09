@@ -1,0 +1,11 @@
+set number
+set relativenumber
+set cursorline
+set tabstop=2
+set incsearch
+set ignorecase
+set hlsearch
+set showmatch
+set mouse=a
+set noswapfile
+syntax on
