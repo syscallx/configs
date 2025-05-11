@@ -9,4 +9,8 @@
 	"caret_extra_top": 1,
 	"caret_extra_bottom": 1,
 	"caret_extra_width": 1,
+	"file_tab_style": "square",
+	"bold_folder_labels": true,
+	"popup_shadows": false,
+	"overlay_scroll_bars": "enabled",
 }
